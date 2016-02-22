@@ -22,7 +22,7 @@ public interface SimpleStack {
     public void push(Item item);
     /**
      * Looks at the object at the top of this stack
-     * without removing it from the stack.
+     * without removing it from the stack. Coucou
      * @throws EmptyStackException if this stack is empty.
      * @return the item at the top of the stack
      */

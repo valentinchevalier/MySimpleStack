@@ -13,9 +13,6 @@ public class MyStack implements SimpleStack {
      */
     private final Stack<Item> stack = new Stack<Item>();
 
-    /*
-    * Commentaire de l'éxigence de test.
-    * */
     @Override
     public final boolean isEmpty() {
         return stack.isEmpty();

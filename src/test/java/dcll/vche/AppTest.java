@@ -31,8 +31,8 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
-    {
+    public void testApp(){
+        App app = new App();
         assertTrue( true );
     }
 }
